@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @g0phergit
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning typescript, nginx, express.js
-- 💞️ I’m looking to collaborate on some backend project 
+- 👀 I’m interested in cpython
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on some python library
 
 
 <!---
