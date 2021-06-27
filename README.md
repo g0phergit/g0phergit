@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 📫 How to reach me **birdinium@gmail.com and discord гофер#1111**
+- 📫 How to reach me **birdinium@gmail.com and discord гофер#0001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
