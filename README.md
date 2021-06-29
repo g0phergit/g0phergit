@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g0phergit&label=Profile%20views&color=0e75b6&style=flat" alt="g0phergit" /> </p>
 
-- 🔭 I’m currently working on **dresscord**
+- 🔭 I’m currently working on nothing
 
 - 🌱 I’m currently learning **python**
 
